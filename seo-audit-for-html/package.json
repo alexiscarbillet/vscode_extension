@@ -3,6 +3,7 @@
   "displayName": "seo-audit-for-html",
   "description": "Live SEO audit for HTML scripts",
   "version": "0.0.1",
+  "publisher": "AlexisCarbillet",
   "engines": {
     "vscode": "^1.102.0"
   },
